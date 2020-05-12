@@ -1,0 +1,3 @@
+general:
+    debug true
+    host localhost 8080

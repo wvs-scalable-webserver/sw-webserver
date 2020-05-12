@@ -1,0 +1,8 @@
+general:
+    deploymentUuid 1
+
+networking:
+    host localhost
+    port 10000
+thor:
+    host localhost 1337
